@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ImpactEffectsize"]
+	path = ImpactEffectsize
+	url = https://github.com/cran/ImpactEffectsize
+	shallow = true
+	registered = true
